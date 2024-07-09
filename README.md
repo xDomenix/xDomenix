@@ -6,13 +6,13 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ## About Me
-I'm a software engineer with expertise in QA, JavaScript, and Python. I recently graduated from Devmountain with a certificate in Software QA, and I am currently working on a solo QA project for school that involves using Swag Labs (SauceDemo).
+I'm a software engineer with expertise in QA, JavaScript, and Python. I recently graduated from Devmountain with a certificate in Software QA, and I currently worked on a solo QA project for school that involves using Swag Labs (SauceDemo).
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** TypeScript, JavaScript, Python, C++
 - **Frameworks/Libraries:** React, Node.js, Express, Selenium, Jest
-- **Tools:** Git, Docker, Jenkins, Postman
+- **Tools:** Git, Docker, Jenkins, Postman, JMeter
 - **Databases:** MongoDB, MySQL
 
 ## 🌱 Currently Learning
