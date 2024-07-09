@@ -9,7 +9,7 @@ Hello! I'm Stephen Wulff, a dedicated software engineer with a passion for Quali
 
 ## Experience
 I bring extensive experience in writing and executing test cases, ensuring software quality through both manual and automated testing methods. My projects include:
-- **[Swag Labs QA Project](https://github.com/xDomenix/swag-labs-qa):** A comprehensive solo QA project focused on testing functionalities of Swag Labs (SauceDemo).
+- **[Swag Labs QA Project](https://github.com/xDomenix/qrpt15-stephen-solo-project):** A comprehensive solo QA project focused on testing functionalities of Swag Labs (SauceDemo).
 
 ## Current Focus
 I am currently focused on:
