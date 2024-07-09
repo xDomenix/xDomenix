@@ -4,8 +4,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=cplusplus&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=orange)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=black)
 
 ## About Me
 I'm a software engineer with expertise in QA, JavaScript, and Python. I recently graduated from Devmountain with a certificate in Software QA, and I currently worked on a solo QA project for school that involves using Swag Labs (SauceDemo).
