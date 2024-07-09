@@ -23,16 +23,16 @@ I'm continuously learning and improving my skills in software development and QA
 - **Verifying Checkout Process:** Testing the checkout process to ensure it works seamlessly.
 
 ## 💼 Projects
-### [Swag Labs QA Project](https://github.com/xDomenix/swag-labs-qa)
+### [Swag Labs QA Project]([https://github.com/xDomenix/qrpt15-stephen-solo-project])
 A solo QA project for school, where I’m testing various functionalities of the Swag Labs (SauceDemo) application.
 
-### [Another Project](https://github.com/xDomenix/another-project)
+### [Another Project]([https://github.com/xDomenix/qrpt15GroupProjectExample])
 A brief description of another project.
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/stephenxwulff/)
 - [GitHub](https://github.com/xDomenix)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:stephenxwulff@gmail.com)
 
 ## 🏆 Achievements
 - Graduated from Devmountain with a certificate in Software QA.
