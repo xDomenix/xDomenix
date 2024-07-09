@@ -13,7 +13,7 @@ I'm a software engineer with expertise in QA, JavaScript, and Python. I recently
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** TypeScript, JavaScript, Python, C++
+- **Languages:** TypeScript, JavaScript, Python, C++, Lua
 - **Frameworks/Libraries:** React, Node.js, Express, Selenium, Jest
 - **Tools:** Git, Docker, Jenkins, Postman, JMeter
 - **Databases:** MongoDB, MySQL
