@@ -29,7 +29,7 @@ I'm continuously learning and improving my skills in software development and QA
 ### [Swag Labs QA Project](https://github.com/xDomenix/qrpt15-stephen-solo-project)
 A solo QA project for school, where I’m testing various functionalities of the Swag Labs (SauceDemo) application.
 
-### [Group Project @ Devmontain](https://github.com/xDomenix/qrpt15GroupProjectExample)
+### [Group Project @ DevMountain](https://github.com/xDomenix/qrpt15GroupProjectExample)
 Group project on NASA while I was attending Devmountain.
 
 ## 📫 Contact Me
