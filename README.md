@@ -39,6 +39,6 @@ Group project on NASA while I was attending Devmountain.
 
 ## 🏆 Achievements
 - Graduated from Devmountain with a certificate in Software QA.
-- Preparing for my third interview with Penn Foster for a Software Development Engineer in Test (SDET) position.
+- Preparing for interviews for a Software Development Engineer in Test (SDET) position.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xDomenix.xDomenix)
