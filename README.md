@@ -38,7 +38,8 @@ Group project on NASA while I was attending Devmountain.
 - [Email](mailto:stephenxwulff@gmail.com)
 
 ## 🏆 Achievements
-- Graduated from Devmountain with a certificate in Software QA.
-- Preparing for interviews for a Software Development Engineer in Test (SDET) position.
+- Graduated from North Carolina State University with a Bachelor's in Computer Science and earned a Software QA certificate from Devmountain.
+- Currently working as a Certified Tech Advisor at theITSupportCenter.
+- Lead Developer for Descent RP (FiveM).
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xDomenix.xDomenix)
